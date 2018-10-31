@@ -74,7 +74,8 @@ a.see_btn:hover{
   color: black;
 }
 
-.sidebar {
+#sidebar {
+  background-color: white;
   position: fixed;
   width: 300px;
   left: 0;
