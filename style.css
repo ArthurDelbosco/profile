@@ -82,7 +82,12 @@ a.see_btn:hover{
   bottom: 0px;
   width: 120px;
   text-align: center;
-  font-size: 60px;
+  font-size: 40px;
+  list-style-type: none;
+}
+
+.coloricon {
+  color : rgba(220, 220, 220, 0.8);
 }
 
 
