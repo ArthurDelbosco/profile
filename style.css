@@ -75,13 +75,14 @@ a.see_btn:hover{
 }
 
 #sidebar {
-  background-color: blue;
+  background-color: rgba(246, 230, 246, 0.8);
   position: fixed;
   left: 0px;
   top: 0px;
   bottom: 0px;
   width: 120px;
   text-align: center;
+  font-size: 60px;
 }
 
 
