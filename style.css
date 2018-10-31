@@ -1,0 +1,75 @@
+
+body {
+  color: rgb(110, 110, 110);
+  font-family: 'Open Sans', sans-serif;
+  background-image: url("http://medias.photodeck.com/13557e15-b9be-44af-9d81-ba8a961e836e/_MG_6393-candide_thovex__faction_skis__freeski__ski__ski_extreme__suisse__switzerland__verbier_uxga.jpg");
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    color: rgba(247, 43, 43, 0.85);
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.icon {
+    color: rgba(150, 150, 150, 0.5);
+}
+
+.icon:hover{
+  color: rgba(247, 43, 43);
+}
+
+
+.box-white {
+  background-color: white;
+  width: 700px;
+  margin: 15px auto;
+  padding: 20px 45px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+
+.avatar {
+  border-radius: 50%;
+  border: 5px solid rgb(225, 225, 225);
+  width: 150px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  margin: 0 30px;
+  font-size: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#movies img {
+  width: 160px;
+  padding: 10px;
+}
+
+a.see_btn {
+  background-color: rgba(234, 68, 68, 0.8);
+  color: white;
+  width: 10px;
+  margin: 5px;
+  padding: 5px;
+  padding-left: 8px;
+  padding-right: 10px;
+  border-radius: 2px;
+}
+
+a.see_btn:hover{
+  color: black;
+}
